@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 May 2025 14:36:38 at https://www.fanflixbd.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.fanflixbd.com/ -O1 "C:\My Web Sites\Fanflix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:38:53	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/GET (from https://www.fanflixbd.com/)
+14:38:54	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/POST (from https://www.fanflixbd.com/)
+14:38:54	Error: 	"Error when decompressing" (-1) at link https://www.fanflixbd.com/cdn (from https://www.fanflixbd.com/)
+14:42:08	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/collections/GET (from https://www.fanflixbd.com/collections/all)
+14:42:08	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/collections/POST (from https://www.fanflixbd.com/collections/all)
+14:43:23	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/products/GET (from https://www.fanflixbd.com/products/netflix-subscriptions-price-bangladesh)
+14:43:23	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/products/POST (from https://www.fanflixbd.com/products/netflix-subscriptions-price-bangladesh)
+14:43:25	Error: 	"Error when decompressing" (-1) at link https://www.fanflixbd.com/"https:////wa.me//message//YCBSFN3TE4PEM1/"/u003eহোয়াটসঅ্যাপ/u003c//a/u003e (from https://www.fanflixbd.com/products/netflix-amazon-prime-subscription-bd)
+14:43:25	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/" (from https://www.fanflixbd.com/products/buy-chatgpt-plus-subscription-price-in-bangladesh-with-bkash-nagad)
+14:43:25	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/blogs/news/GET (from https://www.fanflixbd.com/blogs/news/how-to-buy-chatgpt-plus-from-bangladesh-the-ultimate-guide-with-fanflix-bd)
+14:43:25	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/blogs/news/POST (from https://www.fanflixbd.com/blogs/news/how-to-buy-chatgpt-plus-from-bangladesh-the-ultimate-guide-with-fanflix-bd)
+14:43:28	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/pages/GET (from https://www.fanflixbd.com/pages/refund-exchange-policy)
+14:43:28	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/pages/POST (from https://www.fanflixbd.com/pages/refund-exchange-policy)
+14:44:07	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/blogs/GET (from https://www.fanflixbd.com/blogs/news)
+14:44:07	Error: 	"Not Found" (404) at link https://www.fanflixbd.com/blogs/POST (from https://www.fanflixbd.com/blogs/news)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 30 seconds : 390 links scanned, 374 files written (105148603 bytes overall) [96609006 bytes received at 214686 bytes/sec], 14619749 bytes transferred using HTTP compression in 169 files, ratio 23%, 13.4 requests per connection
+(15 errors, 0 warnings, 0 messages)

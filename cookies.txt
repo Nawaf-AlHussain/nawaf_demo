@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fanflixbd.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22EE03537C-f644-444D-9bf5-a736f51ae33a%22%7D
+fanflixbd.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	_shopify_country	Bangladesh
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	keep_alive	fe81cd39-c068-450f-8039-771f921cd652
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	localization	BD
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+fanflixbd.com	TRUE	/	FALSE	1999999999	_shopify_y	26709670-7a75-488C-a4af-287b54b06ac1
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+fanflixbd.com	TRUE	/	FALSE	1999999999	_shopify_s	BF2CB6A8-b274-4465-b036-92d491d19567
+www.fanflixbd.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
